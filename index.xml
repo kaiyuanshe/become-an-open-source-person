@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>成为开源人 on </title>
+    <link>https://kaiyuanshe.github.io/become-an-open-source-person/</link>
+    <description>Recent content in 成为开源人 on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://kaiyuanshe.github.io/become-an-open-source-person/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>《成为开源人》缘起</title>
+      <link>https://kaiyuanshe.github.io/become-an-open-source-person/preface/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaiyuanshe.github.io/become-an-open-source-person/preface/</guid>
+      <description>一本封面很神奇的书 那天我在逛书店，遇到一本非常有趣的书。关键在于，这本书的封面是一段C语言写的Hello World程序，而书名却叫《成为人类学家》。而我因为《大教堂与集市》中提到的“礼物文化”的原因，有很长一段时间，都对人类学很感兴趣，于是我翻开这本书，想找一下为什么人类学家，会对编程语言、源代码、Hello World感兴趣？
+当然，我翻遍这本书，也没有找到关于计算机人类学、软件人类学，或者开源社区人类学之类的研究。不过，出于好奇，我还是把这本书买回了家。
+一群志同道合的人 这是一本合集，是几十位国内的青年人类学家的学术自述。因为大家都有人类学的学术背景，所以这本书除了描述各种各样有趣的个人经历，也带有非常浓厚的自我剖析的意味。书中有一篇黄剑波老师的自述，其中一句话非常有代表性：“我们进而试图去处理到底一个宗教信徒是如何体认其信仰，如何实际感受和“成为”（becoming）一个宗教实践者的过程。”
+而《成为人类学家》这本书，也是在描述诸位亲历者，成为人类学家的过程，将“人类学作为一种生活方式”的过程。
+同样的过程，也出现在开源人这个群体。当我将这本书，分享到【OSCAR·开源之书·共读】群里时，我们几乎不约而同的想到了《成为开源人》这一书名。我们可以从不同的角度来描述：我们如何接触开源，如何理解开源，以及如何成为开源人的过程。
+一本写给现在与未来同道的书 通过在群内讨论，以及四处找朋友约稿的过程中，我越来越清楚这会是一本怎么样的书了。书中的作者，将不仅仅是开源大牛、业界老鸟，唯一的标准是：TA真诚的认同自己的“开源人”身份。也许是开源技术人、也许是开源商人、也可以是开源教育者、开源社区工作者、开源学术研究者，总之，只要是在某一天，TA突然意识到“我是一名开源人”了，并且能够将这一转变的心路历程记述下来，就会是一篇值得一读的好文章。
+相较于其他的行业、领域，比如“人类学家”，开源人的自觉意识，其实是很晚才出现的。毕竟从 1998 年算起 Open Source 这个词诞生也不过 25 年。到开源传入中国，中国的 IT 技术人，技术社区的运营者，程序员，架构师，产品经理，设计师等等角色逐步出现，在这个过程中，我们才逐步找到了共同点，开始凝聚起来，共同发声，共同思考，共同阅读，并共同进步。
+“开源同道中人”的抱团意识，现在还刚刚起步，我们也需要通过这样的自述，确立自身的定位，并且激励、吸引、启发更多未来的同道。让更多的朋友能够看到：成为开源人，是一个令人开心、兴奋、并且充满挑战，促人成长的过程。</description>
+    </item>
+    
+    <item>
+      <title>Mains</title>
+      <link>https://kaiyuanshe.github.io/become-an-open-source-person/main/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaiyuanshe.github.io/become-an-open-source-person/main/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reference</title>
+      <link>https://kaiyuanshe.github.io/become-an-open-source-person/reference/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaiyuanshe.github.io/become-an-open-source-person/reference/</guid>
+      <description>The Litestream command line provides several subcommands to help you manage replication &amp;amp; recovery of your databases. This reference provides details about the options available and different modes of operation.
+Commands The litestream commands are:
+litestream databases — Lists databases specified in config file. litestream generations — list available generations for a database. litestream replicate — Runs a server to replicate databases. litestream restore — Recovers database backup from a replica.</description>
+    </item>
+    
+  </channel>
+</rss>
