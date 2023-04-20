@@ -1,10 +1,10 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Litestream"
+title = "成为开源人"
 titleSeparator = "-"
-titleAddition = "Streaming SQLite Replication"
-description = "Litestream replicates SQLite databases in real-time to S3."
+titleAddition = "Litestream"
+description = "讲述中国开源人的成长故事"
 
 ## Open Graph + Twitter Cards
 images = ["litestream.png"]
@@ -40,5 +40,5 @@ alert = false
 alertText = "Like Litestream? <a class=\"alert-link\" href=\"https://github.com/benbjohnson/litestream/stargazers\">Star on GitHub</a>. Thanks!</a>"
 
 # Edit Page
-docsRepo = "https://github.com/benbjohnson/litestreamio"
+docsRepo = "https://github.com/kaiyuanshe/become-an-open-source-person"
 editPage = true
