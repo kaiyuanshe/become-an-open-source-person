@@ -77,6 +77,12 @@ rel  = "sitemap"
     source = "static"
     target = "static"
   [[module.mounts]]
+    source = "images"
+    target = "static/images"
+  [[module.mounts]]
+    source = "static/images"
+    target = "static/images"
+  [[module.mounts]]
     source = "node_modules/lazysizes"
     target = "assets/js/vendor/lazysizes"
   [[module.mounts]]
